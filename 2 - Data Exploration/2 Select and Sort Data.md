@@ -16,7 +16,7 @@ SELECT
     column2,
     .....
     column n
- From table_name;
+ FROM table_name;
  ```
  **Important: Make sure you get the name of the columns right**
  ### 1.1.3 Limit Output Rows
